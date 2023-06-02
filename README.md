@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**m-dehghani/m-dehghani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mohammad Dehghani. I'm a developer with 10 years of experience and got my master degree in software engineering from Shiraz university.
 
 - 🔭 .Net - C# - JS - React - Python(NumPy - Pandas - Seaborn - Keras - Tensorflow) 
 - 🌱 I’m currently learning Machine Learning
@@ -9,4 +8,4 @@
 - 🤔 I’m looking for help with finding ideas for ML application securities
 - 💬 Ask me about .Net and C#
 - 📫 How to reach me: +989010596159(WhatsApp and Telegram)
--->
+
