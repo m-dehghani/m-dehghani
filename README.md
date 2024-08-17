@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm Mohammad Dehghani. I'm a developer with 10 years of experience and got my master degree in software engineering from Shiraz university.
+I'm Mohammad Dehghani. I'm a developer with 10 years of experience and I got my master's degree in software engineering from Shiraz University.
 
-- 🔭 .Net - C# - JS - React - Python(NumPy - Pandas - Seaborn - Keras - Tensorflow) 
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on projects related to .Net, Js, machine learning and blockachain
-- 🤔 I’m looking for help with finding ideas for ML application securities
-- 💬 Ask me about .Net and C#
+- 🔭 Go - C# - JS - React - Python(NumPy - Pandas - Seaborn - Keras - Tensorflow) 
+- 🌱 I’m currently learning DevOps and SRE
+- 👯 I’m looking to collaborate on projects related to microservices and cloud-native projects
+- 🤔 I’m looking for help with finding ideas for ML application
+- 💬 Ask me about Go and C#
 - 📫 How to reach me: +989010596159(WhatsApp and Telegram) email: dehghany.m@gmail.com
 
